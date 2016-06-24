@@ -1,0 +1,28 @@
+.container_12{
+  background: red;
+}
+nav li{
+  display:inline;
+margin-left: 0;
+margin-right: 5;
+background: orange;
+}
+
+aside{
+  background: green;
+}
+.primary{
+  background: grey;
+}
+header
+{
+  background: yellow;
+
+}
+.main{
+  margin:30px 0;
+  }
+section{
+padding:15px;
+  box-sizing: border-box;
+}

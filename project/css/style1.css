@@ -1,0 +1,40 @@
+.container_12{
+  background:red;
+}
+header{
+  background: yellow;
+}
+.main
+{
+  background: orange;
+  margin-top: 30px 0;
+}
+.primary
+{
+  background: grey;
+}
+aside{
+  background: #d1d1d1;
+}
+footer{
+  background: blue;
+}
+nav li{
+  display:inline;
+margin-left: 0;
+margin-right: 5;
+text-decoration: none;
+
+}
+section{
+  box-sizing: border-box;
+}
+.small{
+  background:lightblue;
+  border: 1px solid black;
+}
+.hero{
+  width:960;
+  height:431;
+  overflow: hidden;
+}
